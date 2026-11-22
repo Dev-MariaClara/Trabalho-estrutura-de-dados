@@ -1,5 +1,3 @@
-package Entidades;
-
 public class FilaMatchmaking {
 
     private String[] jogadores;
