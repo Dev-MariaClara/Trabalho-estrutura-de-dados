@@ -1,5 +1,7 @@
 
 import java.util.Scanner;
+//Alunos : ARTHUR GABRIEL BRANDÃO DE FREITAS, Maria Clara De Sá Rocha, Beatriz de Sant’ Ana dos Santos
+
 
 public class Main {
 
